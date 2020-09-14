@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We will help you to ind your way!</string>
+    <string name="powered_by">Powered By Ruchi</string>
+
+    <string name="first_slide">Search Your Location</string>
+    <string name="second_slide">Make a Call</string>
+    <string name="third_slide">Add Missing Place</string>
+    <string name="fourth_slide">Sit Back and Enjoy</string>
+
+    <string name="first_des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis augue at elit posuere, vel semper ipsum maximus.</string>
+    <string name="sec_des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis augue at elit posuere, vel semper ipsum maximus.</string>
+    <string name="third_des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis augue at elit posuere, vel semper ipsum maximus.</string>
+    <string name="fourth_des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis augue at elit posuere, vel semper ipsum maximus.</string>
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets get Started</string>
+
+
+
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+
+    <string name="featured_locations">All Featured Locations</string>
+    <string name="featured_locations_description">All the locations that are featured have top demand in market</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+
+    <string name="home">Home</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="search_k">SEARCH</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="login">LOGIN</string>
+    <string name="menu_profile">PROFILE</string>
+    <string name="logout">LOGOUT</string>
+    <string name="share">Share with your friends</string>
+    <string name="rate_us">Kindly Rate Us</string>
+
+</resources>
