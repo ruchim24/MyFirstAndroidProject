@@ -86,7 +86,7 @@ public class UserDashboard extends AppCompatActivity implements NavigationView.O
     }
 
     private void animateNavigationDrawer() {
-        drawerLayout.setScrimColor(getResources().getColor(R.color.colorPrimary));
+        drawerLayout.setScrimColor(getResources().getColor(R.color.colorSplash));
         drawerLayout.addDrawerListener(new DrawerLayout.SimpleDrawerListener() {
             @Override
             public void onDrawerSlide(View drawerView, float slideOffset) {
@@ -124,7 +124,7 @@ public class UserDashboard extends AppCompatActivity implements NavigationView.O
 
         ArrayList<FeaturedHelperClass> featuredLocations = new ArrayList<>();
 
-        featuredLocations.add(new FeaturedHelperClass(R.drawable.macdonalds,"MacDonald's","fghjkkjhgfddertghjuytrfg"));
+        featuredLocations.add(new FeaturedHelperClass(R.drawable.chanel,"Chanel","fghjkkjhgfddertghjuytrfg"));
         featuredLocations.add(new FeaturedHelperClass(R.drawable.starbucks,"Star Buck's","fghjkkjhgfddertghjuytrfg"));
         featuredLocations.add(new FeaturedHelperClass(R.drawable.prada,"Prada","fghjkkjhgfddertghjuytrfg"));
 
@@ -141,7 +141,7 @@ public class UserDashboard extends AppCompatActivity implements NavigationView.O
         mostViewedRecycler.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
 
         ArrayList<MostViewedHelperClass> mostViewedLocations = new ArrayList<>();
-        mostViewedLocations.add(new MostViewedHelperClass(R.drawable.macdonalds, "McDonald's"));
+        mostViewedLocations.add(new MostViewedHelperClass(R.drawable.chanel, "Chanel"));
         mostViewedLocations.add(new MostViewedHelperClass(R.drawable.starbucks, "Edenrobe"));
         mostViewedLocations.add(new MostViewedHelperClass(R.drawable.prada, "J."));
 
@@ -160,8 +160,8 @@ public class UserDashboard extends AppCompatActivity implements NavigationView.O
 
 
         ArrayList<CategoriesHelperClass> categoriesHelperClasses = new ArrayList<>();
-        categoriesHelperClasses.add(new CategoriesHelperClass(gradient1, R.drawable.education, "Education"));
-        categoriesHelperClasses.add(new CategoriesHelperClass(gradient3, R.drawable.restaurant, "Restaurant"));
+        categoriesHelperClasses.add(new CategoriesHelperClass(gradient1, R.drawable.education, "Rtjhg"));
+        categoriesHelperClasses.add(new CategoriesHelperClass(gradient3, R.drawable.restaurant, "KJHgf"));
         categoriesHelperClasses.add(new CategoriesHelperClass(gradient4, R.drawable.shop, "Shopping"));
 
 
